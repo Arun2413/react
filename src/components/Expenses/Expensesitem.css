@@ -1,0 +1,27 @@
+#aj {
+    background-color:grey;
+    width: 900px;
+    margin-left: 50px;
+    border-radius: 10px;
+    height: 150px;
+  }
+  #b{
+    color: white;
+    margin-left: 2%;
+    display: inline-block;
+    position: relative;
+    bottom: 40px;
+  }
+  #c{
+    color: white;
+    display: inline-block;
+    text-align: center;
+    margin-left:75%;
+    width: 150px;
+    height: 30px;
+    background-color: rgb(97, 5, 97);
+    border: 2px solid white;
+    border-radius: 25px;
+    position: relative;
+    bottom: 100px;
+  }

@@ -1,0 +1,27 @@
+#h{
+  margin-left: 12%;
+  background-color: black;
+  width: 1000px;
+  border-radius: 10px;
+  padding: 30px;
+}
+#pa{
+  color: rgb(224, 224, 122);
+  margin-left: 50px;
+  display: inline-block;
+}
+#se{
+  display: inline-block;
+  margin-left:75% ;
+}
+
+
+#s{
+  text-align: center;
+}
+
+#aaa{
+  text-align: center;
+  color: white;
+}
+
