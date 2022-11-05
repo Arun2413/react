@@ -12,7 +12,7 @@ function App(op) {
   const [arr,setarr]=useState(array)
   // var date ='August 2022 12'
   // var name ='Bank Loan'
-  // var rs ='RS 2000'
+  
   // var h1 ='Welcome to react'
 
   function app(call){
